@@ -7,7 +7,7 @@ I love to challenge myself in making things, and in this section I've made a rep
 
 This is what will you get in this code...
 
-Scan-Like Text Animation, features:
+Logo Scan Animation, features:
 
 - Vertically Scan-Like logo animation from up to down
 - Horizontally Scan-Like text animation concept from left to right
